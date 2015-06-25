@@ -1,6 +1,7 @@
 GeneticImageEvolution
 
-The program evolves images out of primitives like ellipses with a genetic algorithm
+The program evolves images out of primitives like ellipses with a genetic algorithm. The GUI is designed with Qt, you will need that to run the code
+(also you will need the Qt DLLs to run the windows build, but build it yourself to be sure).
 
 This program was written in German, so there will still be German comments, variable names etc. However I tried to translate the GUI to english so it may be understood by non Germans.
 
